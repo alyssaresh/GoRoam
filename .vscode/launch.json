@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GoRoamApplication<goRoam>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.goroam.goRoam.GoRoamApplication",
+            "projectName": "goRoam",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
