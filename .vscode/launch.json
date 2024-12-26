@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GoRoamApplication",
+            "request": "launch",
+            "mainClass": "com.goRoam.GoRoamApplication",
+            "projectName": "goRoam"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-GoRoamApplication<goRoam>",
             "request": "launch",
             "cwd": "${workspaceFolder}",

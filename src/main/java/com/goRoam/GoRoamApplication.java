@@ -1,4 +1,4 @@
-package com.goroam.goRoam;
+package com.goRoam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
