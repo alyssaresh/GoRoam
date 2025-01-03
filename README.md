@@ -9,3 +9,9 @@ MVP: In the early stages of my project, I will focus on returning places that co
 
 The first draft of my data model looks like this (12/17/2024):
 <img width="646" alt="Screen Shot 2024-12-17 at 10 30 21 AM" src="https://github.com/user-attachments/assets/8e4efd5a-ae4c-4cb3-a53c-f4c27e8ce769" />
+
+Here are UI mockups of my home page and search page: 
+Home Page:
+![Rectangle 54](https://github.com/user-attachments/assets/735b2080-e285-4c5c-893a-c6bd32b6e066)
+Search Page:
+![Component 1](https://github.com/user-attachments/assets/c048d2b6-1f84-414d-969b-b31f1c54aa9c)
